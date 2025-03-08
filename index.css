@@ -26,6 +26,10 @@ nav{
   transition: 1s;
 }
 
+nav li {
+list-style-type: none;
+}
+
 nav:hover{
   width: 280px;
   transition: 1s;
