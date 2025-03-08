@@ -19,11 +19,13 @@ nav{
   height: 100vh;
   left: 0;
   width: 90px;
+  list-style-type: none;
   /* width: 280px; */
   background: #fff;
   overflow: hidden;
   transition: 1s;
 }
+
 nav:hover{
   width: 280px;
   transition: 1s;
